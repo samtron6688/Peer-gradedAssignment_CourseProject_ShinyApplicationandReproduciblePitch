@@ -1,0 +1,9 @@
+This application is to help determine the best car for a trip. The "mtcars"" dataset from R is used.
+
+##### Usage:
+
+1) Decide the distance of a trip and the price of gasoline in the region. The info is used to calculate the Gasoline Expenditure for each car in the dataset. Then, enter the maximum amount of money to spend on gasoline, and the table shows only the cars with Miles per Gallon (mpg) that is below this value.
+
+2) Choose the characteristics of the cars, that is, Cylinders, Displacement, Horse Power, and Transmission. The table shows only the cars satisfying the selected filters. The table can be sorted by clicking the column names at the top of the table.
+
+Source code files, ui.R and server.R, are available on the GitHub.
